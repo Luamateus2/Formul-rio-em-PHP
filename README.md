@@ -41,12 +41,12 @@ $mail->addAddress('destino@example.com', 'Destinatário');
 ### 3. Acesso ao Formulário
 Abra o navegador e acesse:
 ```
-http://localhost/seu-projeto/
+http://localhost/formulario-php/
 ```
 
 ## Estrutura do Projeto
 ```
-/seu-projeto
+/formulario-php
 │── index.html        
 │── envia.php         
 │── style.css            
