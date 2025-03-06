@@ -47,15 +47,11 @@ http://localhost/seu-projeto/
 ## Estrutura do Projeto
 ```
 /seu-projeto
-│── index.php         # Página principal com o formulário
-│── envia.php         # Script de processamento e envio de e-mail
-│── style/            # Pasta contendo estilos CSS
+│── index.html        
+│── envia.php         
+│── style.css            
 ```
 
-## Melhorias Futuras
-- Implementação de reCAPTCHA para evitar spam.
-- Armazenamento de mensagens em banco de dados.
-- Envio de e-mails com anexos.
 
 ## Licença
 Este projeto está sob a licença MIT. Você pode usá-lo livremente, desde que mantenha os devidos créditos.
